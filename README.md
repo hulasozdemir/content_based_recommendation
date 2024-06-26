@@ -18,9 +18,7 @@ movielens-recommendation-engine/
 │   ├── processed/
 │
 ├── notebooks/
-│   ├── data_preprocessing.ipynb
 │   ├── exploratory_data_analysis.ipynb
-│
 ├── src/
 │   ├── data/
 │   │   ├── data_loader.py
@@ -49,15 +47,11 @@ movielens-recommendation-engine/
 - numpy
 
 ### Installation
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/hulasozdemir/movielens-recommendation-engine.git
-    ```
-2. Navigate to the project directory:
+1. Navigate to the project directory:
     ```bash
     cd movielens-recommendation-engine
     ```
-3. Install the required packages:
+2. Install the required packages:
     ```bash
     pip install -r requirements.txt
     ```
