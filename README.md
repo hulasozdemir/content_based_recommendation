@@ -9,6 +9,9 @@ This project involves building a movie recommendation engine using collaborative
 - Evaluation Metrics: Precision@K, Recall@K, Mean Absolute Error (MAE), Root Mean Squared Error (RMSE).
 - Streamlit Web App for user interaction.
 
+## Demo
+Click (here)[https://contentbasedrecommendation-32h2dcefsqtlule542ozwh.streamlit.app] for the streamlit app.
+
 ## Directory Structure
 ```
 movielens-recommendation-engine/
